@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-08-31T04:45:35Z</date>
+	<key>Application Version</key><string>12.10.8.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>FC75ECD7623E2FF6</string>
+	<key>Tracks</key>
+	<dict>
+		<key>105</key>
+		<dict>
+			<key>Track ID</key><integer>105</integer>
+			<key>Name</key><string>Cheap Thrills Violin Cello cover</string>
+			<key>Artist</key><string>Ember Trio</string>
+			<key>Album Artist</key><string>Ember Trio</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3307438</integer>
+			<key>Total Time</key><integer>206445</integer>
+			<key>Date Modified</key><date>2020-08-24T22:35:18Z</date>
+			<key>Date Added</key><date>2020-08-24T22:50:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>227CCF60BB51A1EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Ember%20Trio/Unknown%20Album/Cheap%20Thrills%20-%20Sia%20Violin%20Cello%20Cover%20Ember%20Trio.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>125</key>
+		<dict>
+			<key>Track ID</key><integer>125</integer>
+			<key>Name</key><string>Lo poco que tengo</string>
+			<key>Artist</key><string>Ricardo Arjona</string>
+			<key>Album</key><string>Viaje</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3751316</integer>
+			<key>Total Time</key><integer>234187</integer>
+			<key>Date Modified</key><date>2020-08-24T22:43:06Z</date>
+			<key>Date Added</key><date>2020-08-24T22:51:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>ADA169B9E19E8B41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Ricardo%20Arjona/Viaje/Ricardo%20Arjona%20-%20Lo%20Poco%20Que%20Tengo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>131</key>
+		<dict>
+			<key>Track ID</key><integer>131</integer>
+			<key>Name</key><string>Shape of you. Violin and Cello.</string>
+			<key>Artist</key><string>Ember Trio</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2364521</integer>
+			<key>Total Time</key><integer>147513</integer>
+			<key>Date Modified</key><date>2020-08-24T22:45:26Z</date>
+			<key>Date Added</key><date>2020-08-24T22:52:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2B50942F88E0F486</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Ember%20Trio/Unknown%20Album/Shape%20Of%20You%20-%20Ed%20Sheeran%20Violin%20and%20Cello%20Cover%20Ember%20Trio.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>137</key>
+		<dict>
+			<key>Track ID</key><integer>137</integer>
+			<key>Name</key><string>Wake  me up. Violin cello bass.</string>
+			<key>Artist</key><string>Ember Trio</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4331855</integer>
+			<key>Total Time</key><integer>270471</integer>
+			<key>Date Modified</key><date>2020-08-24T22:46:59Z</date>
+			<key>Date Added</key><date>2020-08-24T22:52:52Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F766FC94AE9002B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Ember%20Trio/Unknown%20Album/Wake%20Me%20Up%20-%20Avicii%20(violincellobass%20cover)%20-%20Simply%20Three.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Relajantes</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>289</integer>
+			<key>Playlist Persistent ID</key><string>4D42CD557B3F28D5</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>125</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

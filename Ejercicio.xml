@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-08-30T22:23:51Z</date>
+	<key>Application Version</key><string>12.10.8.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>FC75ECD7623E2FF6</string>
+	<key>Tracks</key>
+	<dict>
+		<key>101</key>
+		<dict>
+			<key>Track ID</key><integer>101</integer>
+			<key>Name</key><string>Bailame</string>
+			<key>Artist</key><string>Nacho</string>
+			<key>Album</key><string>Bailame</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3402721</integer>
+			<key>Total Time</key><integer>212401</integer>
+			<key>Date Modified</key><date>2020-08-24T22:32:51Z</date>
+			<key>Date Added</key><date>2020-08-24T22:49:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7EF8D45A948CE52C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Nacho/Bailame/Bailame-%20Nacho.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>109</key>
+		<dict>
+			<key>Track ID</key><integer>109</integer>
+			<key>Name</key><string>Hasta que salga el sol</string>
+			<key>Artist</key><string>Don Omar</string>
+			<key>Album</key><string>Nibiru</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3893422</integer>
+			<key>Total Time</key><integer>243069</integer>
+			<key>Date Modified</key><date>2020-08-24T22:36:59Z</date>
+			<key>Date Added</key><date>2020-08-24T22:50:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>46169A6EAC47BAB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Don%20Omar/Nibiru/Don%20Omar%20-%20Hasta%20Que%20Salga%20El%20Sol%20.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>115</key>
+		<dict>
+			<key>Track ID</key><integer>115</integer>
+			<key>Name</key><string>Hips don't lie</string>
+			<key>Artist</key><string>Shakira/Wyclef Jean</string>
+			<key>Album</key><string>Oral Fixation vol.2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3495541</integer>
+			<key>Total Time</key><integer>218200</integer>
+			<key>Date Modified</key><date>2020-08-24T22:39:01Z</date>
+			<key>Date Added</key><date>2020-08-24T22:51:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>98A061F6E0E5EEB6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Shakira_Wyclef%20Jean/Oral%20Fixation%20vol.2/Hips%20Don't%20Lie-Shakira.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>117</key>
+		<dict>
+			<key>Track ID</key><integer>117</integer>
+			<key>Name</key><string>La Gozadera</string>
+			<key>Artist</key><string>Gente de zona</string>
+			<key>Album</key><string>La Gozadera</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3270662</integer>
+			<key>Total Time</key><integer>204146</integer>
+			<key>Date Modified</key><date>2020-08-24T22:40:12Z</date>
+			<key>Date Added</key><date>2020-08-24T22:51:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>88C2CBFF31693628</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Gente%20de%20zona/La%20Gozadera/La%20Gozadera%20%20%20Gente%20de%20Zona%20ft%20%20Marc%20Anthony%20.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>119</key>
+		<dict>
+			<key>Track ID</key><integer>119</integer>
+			<key>Name</key><string>Limbo</string>
+			<key>Artist</key><string>Dady Yankee</string>
+			<key>Album</key><string>Prestige</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3600838</integer>
+			<key>Total Time</key><integer>224783</integer>
+			<key>Date Modified</key><date>2020-08-24T22:41:45Z</date>
+			<key>Date Added</key><date>2020-08-24T22:51:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5528D37026EA1558</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Dady%20Yankee/Prestige/Limbo-Dady%20Yankee.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>133</key>
+		<dict>
+			<key>Track ID</key><integer>133</integer>
+			<key>Name</key><string>Break your heart</string>
+			<key>Artist</key><string>Taio Cruz</string>
+			<key>Album</key><string>Rokstarr</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3194173</integer>
+			<key>Total Time</key><integer>199366</integer>
+			<key>Date Modified</key><date>2020-08-24T22:46:02Z</date>
+			<key>Date Added</key><date>2020-08-24T22:52:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D4015467E384CE62</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Taio%20Cruz/Rokstarr/Taio%20Cruz%20-%20Break%20Your%20Heart%20(Official%20Music%20Video)%20ft.%20Ludacris.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>139</key>
+		<dict>
+			<key>Track ID</key><integer>139</integer>
+			<key>Name</key><string>We found love</string>
+			<key>Artist</key><string>Rihanna</string>
+			<key>Album</key><string>Talk that talk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3449129</integer>
+			<key>Total Time</key><integer>215301</integer>
+			<key>Date Modified</key><date>2020-08-24T22:47:54Z</date>
+			<key>Date Added</key><date>2020-08-24T22:53:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F8035F8ED52A5247</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Rihanna/Talk%20that%20talk/We%20Found%20Love-Rihanna.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>141</key>
+		<dict>
+			<key>Track ID</key><integer>141</integer>
+			<key>Name</key><string>Worth it</string>
+			<key>Artist</key><string>Fifth Harmony</string>
+			<key>Album</key><string>Reflection</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3599174</integer>
+			<key>Total Time</key><integer>224679</integer>
+			<key>Date Modified</key><date>2020-08-24T22:48:45Z</date>
+			<key>Date Added</key><date>2020-08-24T22:53:12Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>225E63A34DFEB7CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Fifth%20Harmony/Reflection/Worth%20It-Fifth%20Harmony.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Ejercicio</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>270</integer>
+			<key>Playlist Persistent ID</key><string>F1DCBAFCE09EA3E7</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

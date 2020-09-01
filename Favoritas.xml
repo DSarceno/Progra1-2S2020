@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-08-31T04:46:31Z</date>
+	<key>Application Version</key><string>12.10.8.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>FC75ECD7623E2FF6</string>
+	<key>Tracks</key>
+	<dict>
+		<key>105</key>
+		<dict>
+			<key>Track ID</key><integer>105</integer>
+			<key>Name</key><string>Cheap Thrills Violin Cello cover</string>
+			<key>Artist</key><string>Ember Trio</string>
+			<key>Album Artist</key><string>Ember Trio</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3307438</integer>
+			<key>Total Time</key><integer>206445</integer>
+			<key>Date Modified</key><date>2020-08-24T22:35:18Z</date>
+			<key>Date Added</key><date>2020-08-24T22:50:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>227CCF60BB51A1EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Ember%20Trio/Unknown%20Album/Cheap%20Thrills%20-%20Sia%20Violin%20Cello%20Cover%20Ember%20Trio.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>117</key>
+		<dict>
+			<key>Track ID</key><integer>117</integer>
+			<key>Name</key><string>La Gozadera</string>
+			<key>Artist</key><string>Gente de zona</string>
+			<key>Album</key><string>La Gozadera</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3270662</integer>
+			<key>Total Time</key><integer>204146</integer>
+			<key>Date Modified</key><date>2020-08-24T22:40:12Z</date>
+			<key>Date Added</key><date>2020-08-24T22:51:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>88C2CBFF31693628</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Gente%20de%20zona/La%20Gozadera/La%20Gozadera%20%20%20Gente%20de%20Zona%20ft%20%20Marc%20Anthony%20.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>121</key>
+		<dict>
+			<key>Track ID</key><integer>121</integer>
+			<key>Name</key><string>Ojala</string>
+			<key>Artist</key><string>Silvio Rodriguez</string>
+			<key>Album</key><string>Al final de este viaje</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3405670</integer>
+			<key>Total Time</key><integer>212584</integer>
+			<key>Date Modified</key><date>2020-08-31T04:38:53Z</date>
+			<key>Date Added</key><date>2020-08-24T22:51:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8DD7C60ED8091052</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes%20m%C3%BAsica/Music/Silvio%20Rodriguez/Al%20final%20de%20este%20viaje/Ojal%C3%A1-Silvio%20Rodriguez.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>133</key>
+		<dict>
+			<key>Track ID</key><integer>133</integer>
+			<key>Name</key><string>Break your heart</string>
+			<key>Artist</key><string>Taio Cruz</string>
+			<key>Album</key><string>Rokstarr</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3194173</integer>
+			<key>Total Time</key><integer>199366</integer>
+			<key>Date Modified</key><date>2020-08-24T22:46:02Z</date>
+			<key>Date Added</key><date>2020-08-24T22:52:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D4015467E384CE62</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Taio%20Cruz/Rokstarr/Taio%20Cruz%20-%20Break%20Your%20Heart%20(Official%20Music%20Video)%20ft.%20Ludacris.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>137</key>
+		<dict>
+			<key>Track ID</key><integer>137</integer>
+			<key>Name</key><string>Wake  me up. Violin cello bass.</string>
+			<key>Artist</key><string>Ember Trio</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4331855</integer>
+			<key>Total Time</key><integer>270471</integer>
+			<key>Date Modified</key><date>2020-08-24T22:46:59Z</date>
+			<key>Date Added</key><date>2020-08-24T22:52:52Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F766FC94AE9002B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Ember%20Trio/Unknown%20Album/Wake%20Me%20Up%20-%20Avicii%20(violincellobass%20cover)%20-%20Simply%20Three.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Favoritas</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>281</integer>
+			<key>Playlist Persistent ID</key><string>21BE641B03868C72</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

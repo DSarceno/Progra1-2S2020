@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-08-31T04:42:11Z</date>
+	<key>Application Version</key><string>12.10.8.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>FC75ECD7623E2FF6</string>
+	<key>Tracks</key>
+	<dict>
+		<key>103</key>
+		<dict>
+			<key>Track ID</key><integer>103</integer>
+			<key>Name</key><string>Cancion del Elegido</string>
+			<key>Artist</key><string>Silvio Rodriguez</string>
+			<key>Album</key><string>Al final de este viaje</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2801315</integer>
+			<key>Total Time</key><integer>174811</integer>
+			<key>Date Modified</key><date>2020-08-31T04:41:58Z</date>
+			<key>Date Added</key><date>2020-08-24T22:50:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C6D2614925F26421</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes%20m%C3%BAsica/Music/Silvio%20Rodriguez/Al%20final%20de%20este%20viaje/Canci%C3%B3n%20Del%20Elegido-Silvio%20Rodriguez.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>107</key>
+		<dict>
+			<key>Track ID</key><integer>107</integer>
+			<key>Name</key><string>Debo partirme en dos</string>
+			<key>Artist</key><string>Silvio Rodriguez</string>
+			<key>Album</key><string>Al final de este viaje</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4695507</integer>
+			<key>Total Time</key><integer>293198</integer>
+			<key>Date Modified</key><date>2020-08-24T22:36:22Z</date>
+			<key>Date Added</key><date>2020-08-24T22:50:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>892D098E19FDEB85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Silvio%20Rodriguez/Al%20final%20de%20este%20viaje/Debo%20Partirme%20en%20Dos%20-%20Silvio%20Rodriguez.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>111</key>
+		<dict>
+			<key>Track ID</key><integer>111</integer>
+			<key>Name</key><string>El necio</string>
+			<key>Artist</key><string>Silvio Rodriguez</string>
+			<key>Album</key><string>Silvio</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5146875</integer>
+			<key>Total Time</key><integer>321410</integer>
+			<key>Date Modified</key><date>2020-08-24T22:37:27Z</date>
+			<key>Date Added</key><date>2020-08-24T22:50:35Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0C0C32B677785287</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Silvio%20Rodriguez/Silvio/El%20necio%20-%20Silvio%20Rodriguez.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>113</key>
+		<dict>
+			<key>Track ID</key><integer>113</integer>
+			<key>Name</key><string>Gracias a la vida</string>
+			<key>Artist</key><string>Mercedes Sosa</string>
+			<key>Album</key><string>8 Saniye</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4250779</integer>
+			<key>Total Time</key><integer>265404</integer>
+			<key>Date Modified</key><date>2020-08-24T22:38:00Z</date>
+			<key>Date Added</key><date>2020-08-24T22:50:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>89E1A56E1FDFD19C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Mercedes%20Sosa/8%20Saniye/Gracias%20a%20la%20Vida%20-%20Por%20Mercedes%20Sosa.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>119</key>
+		<dict>
+			<key>Track ID</key><integer>119</integer>
+			<key>Name</key><string>Limbo</string>
+			<key>Artist</key><string>Dady Yankee</string>
+			<key>Album</key><string>Prestige</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3600838</integer>
+			<key>Total Time</key><integer>224783</integer>
+			<key>Date Modified</key><date>2020-08-24T22:41:45Z</date>
+			<key>Date Added</key><date>2020-08-24T22:51:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5528D37026EA1558</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Dady%20Yankee/Prestige/Limbo-Dady%20Yankee.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>121</key>
+		<dict>
+			<key>Track ID</key><integer>121</integer>
+			<key>Name</key><string>Ojala</string>
+			<key>Artist</key><string>Silvio Rodriguez</string>
+			<key>Album</key><string>Al final de este viaje</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3405670</integer>
+			<key>Total Time</key><integer>212584</integer>
+			<key>Date Modified</key><date>2020-08-31T04:38:53Z</date>
+			<key>Date Added</key><date>2020-08-24T22:51:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8DD7C60ED8091052</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes%20m%C3%BAsica/Music/Silvio%20Rodriguez/Al%20final%20de%20este%20viaje/Ojal%C3%A1-Silvio%20Rodriguez.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>123</key>
+		<dict>
+			<key>Track ID</key><integer>123</integer>
+			<key>Name</key><string>Oleo de mujer con sombrero</string>
+			<key>Artist</key><string>Silvio Rodriguez</string>
+			<key>Album</key><string>Al final de este viaje</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2319833</integer>
+			<key>Total Time</key><integer>144718</integer>
+			<key>Date Modified</key><date>2020-08-31T04:39:11Z</date>
+			<key>Date Added</key><date>2020-08-24T22:51:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C5DA720DA516F2AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes%20m%C3%BAsica/Music/Silvio%20Rodriguez/Al%20final%20de%20este%20viaje/%C3%93leo%20de%20Mujer%20Con%20Sombrero-Silvio%20Rodriguez.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>127</key>
+		<dict>
+			<key>Track ID</key><integer>127</integer>
+			<key>Name</key><string>Tocando fondo</string>
+			<key>Artist</key><string>Ricardo Arjona</string>
+			<key>Album</key><string>5to piso</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4392464</integer>
+			<key>Total Time</key><integer>274259</integer>
+			<key>Date Modified</key><date>2020-08-24T22:43:48Z</date>
+			<key>Date Added</key><date>2020-08-24T22:51:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>000B6E98DCDECE10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Ricardo%20Arjona/5to%20piso/Ricardo%20Arjona%20-%20Tocando%20Fondo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>135</key>
+		<dict>
+			<key>Track ID</key><integer>135</integer>
+			<key>Name</key><string>Todo cambia</string>
+			<key>Artist</key><string>Mercedes Sosa</string>
+			<key>Album</key><string>¿Será posible el sur?</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4606051</integer>
+			<key>Total Time</key><integer>287608</integer>
+			<key>Date Modified</key><date>2020-08-24T22:46:31Z</date>
+			<key>Date Added</key><date>2020-08-24T22:52:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5DC0F946235C4189</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sheny/Music/iTunes/iTunes%20Media/Music/Mercedes%20Sosa/%C2%BFSer%C3%A1%20posible%20el%20sur_/Todo%20cambia%20-%20Mercedes%20Sosa%20.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Tranquilas</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>297</integer>
+			<key>Playlist Persistent ID</key><string>B606993774930640</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
