@@ -45,7 +45,8 @@ def menu_principal(): #menu que da opciones de acciones para el usuario
         if respuesta == '2':
             opciones_listas_guardadas()
         if respuesta == '3':
-            menu_reporte_repetidas()
+            graficar(filas_tabla)
+            escribir_reporte_graficas()
         else:
             return 'Entrada no válida'
 
@@ -180,7 +181,7 @@ def impresion_tabla(): #imprime la tabla con los datos de una cancion
     Tabla = (Tabla.format('\n'.join("| {:<40} {:<40} {:<5} |".format(*fila)
                                     for fila in filas_tabla_impresion)))
     print(Tabla)
-    regresar_a_menu()
+
 
                 #IMPRIME UNA TABLA CON LOS DATOS DE LA LISTA DE REPRODUCCION
 
@@ -322,6 +323,10 @@ def practica():
     menu_agregar_lista()
     analizar_lista()
     impresion_tabla()
+    graficar(filas_tabla)
+    print('Ahora la lista será exportada en CSV')
+    exportar_lista()
+    escribir_reporte_repetidas()
     regresar_a_menu()
 
 practica()
